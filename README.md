@@ -1,3 +1,3 @@
 # merge-mosh
 
-feature1 edit
+feature1 better edit
